@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/ITSTEP/laborator/cmake-build-debug/CMakeFiles/laborator.dir
+C:/Users/User/Desktop/ITSTEP/laborator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/ITSTEP/laborator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
